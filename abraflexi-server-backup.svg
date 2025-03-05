@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg:svg
+   id="svg3972"
+   sodipodi:docname="abraflexi-server-backup.svg"
+   inkscape:export-filename="/home/ronny/persoenliches/Programme/JBackpack/jbackpack/src/ch/fhnw/jbackpack/icons/16x16/icon.png"
+   viewBox="0 0 512 512"
+   inkscape:export-xdpi="2.8099999"
+   version="1.1"
+   inkscape:export-ydpi="2.8099999"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <svg:defs
+     id="defs3974">
+    <svg:linearGradient
+       id="linearGradient3826"
+       y2="135.09"
+       gradientUnits="userSpaceOnUse"
+       x2="66.979"
+       gradientTransform="translate(-0.76609,0.99577)"
+       y1="370.09"
+       x1="339.44"
+       inkscape:collect="always">
+      <svg:stop
+         id="stop3822"
+         style="stop-color:#7399ab"
+         offset="0" />
+      <svg:stop
+         id="stop3824"
+         style="stop-color:#fffeff"
+         offset="1" />
+    </svg:linearGradient>
+    <svg:filter
+       id="filter4381"
+       inkscape:collect="always"
+       color-interpolation-filters="sRGB"
+       x="-0.012000024"
+       y="-0.012000024"
+       width="1.024"
+       height="1.024">
+      <svg:feGaussianBlur
+         id="feGaussianBlur4383"
+         stdDeviation="2.5"
+         inkscape:collect="always" />
+    </svg:filter>
+    <svg:clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath20">
+      <svg:path
+         d="M 64.09713,512 H 447.9029 c 22.2879,0 30.3701,-2.3206 38.5182,-6.6783 8.1482,-4.3577 14.5429,-10.7524 18.9006,-18.9006 C 509.6794,478.273 512,470.1908 512,447.9029 V 64.09713 C 512,41.80916 509.6794,33.72701 505.3217,25.57886 500.964,17.43071 494.5693,11.03599 486.4211,6.678318 478.273,2.32064 470.1908,0 447.9029,0 H 64.09713 C 41.80916,0 33.72701,2.32064 25.57886,6.678318 17.43071,11.03599 11.03599,17.43071 6.678318,25.57886 2.32064,33.72701 0,41.80916 0,64.09713 V 447.9029 c 0,22.2879 2.32064,30.3701 6.678318,38.5182 4.357672,8.1482 10.752392,14.5429 18.900542,18.9006 8.14815,4.3577 16.2303,6.6783 38.51827,6.6783 z"
+         clip-rule="evenodd"
+         id="path18" />
+    </svg:clipPath>
+    <svg:clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath26">
+      <svg:path
+         d="M 0,0 H 512 V 512 H 0 Z"
+         id="path24" />
+    </svg:clipPath>
+    <svg:clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath36">
+      <svg:path
+         d="M 310.6214,362 424.7089,162.0939 H 310.6961 l -57.0086,99.4988 z"
+         clip-rule="evenodd"
+         id="path34" />
+    </svg:clipPath>
+    <svg:clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath42">
+      <svg:path
+         d="M 0,0 H 512 V 512 H 0 Z"
+         id="path40" />
+    </svg:clipPath>
+    <svg:clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath52">
+      <svg:path
+         d="M 197.1006,362 83.51535,162.0939 H 197.1006 L 310.6214,362 Z"
+         clip-rule="evenodd"
+         id="path50" />
+    </svg:clipPath>
+    <svg:clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath58">
+      <svg:path
+         d="M 0,0 H 512 V 512 H 0 Z"
+         id="path56" />
+    </svg:clipPath>
+    <svg:clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath20-3">
+      <svg:path
+         d="M 64.09713,512 H 447.9029 c 22.2879,0 30.3701,-2.3206 38.5182,-6.6783 8.1482,-4.3577 14.5429,-10.7524 18.9006,-18.9006 C 509.6794,478.273 512,470.1908 512,447.9029 V 64.09713 C 512,41.80916 509.6794,33.72701 505.3217,25.57886 500.964,17.43071 494.5693,11.03599 486.4211,6.678318 478.273,2.32064 470.1908,0 447.9029,0 H 64.09713 C 41.80916,0 33.72701,2.32064 25.57886,6.678318 17.43071,11.03599 11.03599,17.43071 6.678318,25.57886 2.32064,33.72701 0,41.80916 0,64.09713 V 447.9029 c 0,22.2879 2.32064,30.3701 6.678318,38.5182 4.357672,8.1482 10.752392,14.5429 18.900542,18.9006 8.14815,4.3577 16.2303,6.6783 38.51827,6.6783 z"
+         clip-rule="evenodd"
+         id="path18-6" />
+    </svg:clipPath>
+    <svg:clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath26-7">
+      <svg:path
+         d="M 0,0 H 512 V 512 H 0 Z"
+         id="path24-5" />
+    </svg:clipPath>
+    <svg:clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath36-3">
+      <svg:path
+         d="M 310.6214,362 424.7089,162.0939 H 310.6961 l -57.0086,99.4988 z"
+         clip-rule="evenodd"
+         id="path34-5" />
+    </svg:clipPath>
+    <svg:clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath42-6">
+      <svg:path
+         d="M 0,0 H 512 V 512 H 0 Z"
+         id="path40-2" />
+    </svg:clipPath>
+    <svg:clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath52-9">
+      <svg:path
+         d="M 197.1006,362 83.51535,162.0939 H 197.1006 L 310.6214,362 Z"
+         clip-rule="evenodd"
+         id="path50-1" />
+    </svg:clipPath>
+    <svg:clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath58-2">
+      <svg:path
+         d="M 0,0 H 512 V 512 H 0 Z"
+         id="path56-7" />
+    </svg:clipPath>
+  </svg:defs>
+  <sodipodi:namedview
+     id="base"
+     bordercolor="#666666"
+     inkscape:pageshadow="2"
+     inkscape:window-y="0"
+     fit-margin-left="0"
+     pagecolor="#ffffff"
+     inkscape:window-height="1164"
+     inkscape:window-maximized="1"
+     inkscape:zoom="0.88087544"
+     inkscape:window-x="0"
+     showgrid="false"
+     borderopacity="1.0"
+     inkscape:current-layer="layer1"
+     inkscape:cx="174.82608"
+     inkscape:cy="167.44706"
+     fit-margin-top="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:pageopacity="0.0"
+     inkscape:document-units="px"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <svg:g
+     id="layer1"
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     transform="translate(-125 -181.36)">
+    <svg:g
+       id="g12"
+       transform="matrix(1.3333333,0,0,-1.3333333,-41.507245,690.14038)" />
+    <svg:g
+       id="g4098"
+       transform="translate(12.886834,-8.9028198)">
+      <svg:g
+         id="g4079"
+         transform="matrix(0.68002834,0,0,0.68002834,145.824,89.47544)">
+        <svg:rect
+           id="rect4721"
+           style="fill:#4a6c7c"
+           rx="0"
+           ry="0"
+           height="413.62"
+           width="447.67999"
+           y="220.24001"
+           x="149.85001" />
+        <svg:path
+           id="path4369"
+           d="m 171.88,187.36 c -22.641,0 -40.875,18.203 -40.875,40.844 v 418.28 c 0,22.641 18.234,40.875 40.875,40.875 h 418.28 c 22.641,0 40.844,-18.234 40.844,-40.875 v -418.28 c 0,-22.641 -18.203,-40.844 -40.844,-40.844 z m 228.16,72.906 c 97.808,0 177.09,79.286 177.09,177.09 0,97.808 -79.286,177.09 -177.09,177.09 v -46.562 c 73.97,0 133.96,-58.43 133.96,-130.53 0,-72.102 -59.986,-130.56 -133.97,-130.56 -73.983,0 -133.94,58.461 -133.94,130.56 h 36.875 l -58.469,87.406 -59.594,-87.406 h 38.031 c 0,-97.808 79.286,-177.09 177.09,-177.09 z m 62.58,121.15 c 2.8745,-0.0214 5.5144,0.93958 7.4062,2.9375 l 1.5625,1.6562 c 4.3242,4.5667 3.0305,12.785 -2.9062,18.406 l -62.125,58.781 c -5.9367,5.6215 -14.176,6.4729 -18.5,1.9062 l -0.15625,-0.15625 c -1.0645,-0.52738 -2.1232,-1.173 -3.125,-1.9375 l -42.406,-32.375 c -6.4997,-4.9599 -8.659,-12.969 -4.8438,-17.969 l 1.375,-1.8125 c 3.8153,-4.9997 12.125,-5.0224 18.625,-0.0625 l 37.688,28.781 56.281,-53.312 c 3.3394,-3.1621 7.4292,-4.8162 11.125,-4.8438 z"
+           style="fill:#000000;fill-opacity:0.40942;filter:url(#filter4381)"
+           inkscape:connector-curvature="0" />
+        <svg:path
+           id="rect4723"
+           style="fill:url(#linearGradient3826)"
+           inkscape:connector-curvature="0"
+           d="m 165.88,182.36 c -22.641,0 -40.875,18.203 -40.875,40.844 v 418.28 c 0,22.641 18.234,40.875 40.875,40.875 h 418.28 c 22.641,0 40.844,-18.234 40.844,-40.875 v -418.28 c 0,-22.641 -18.203,-40.844 -40.844,-40.844 z m 228.16,72.906 c 97.808,0 177.09,79.286 177.09,177.09 0,97.808 -79.286,177.09 -177.09,177.09 v -46.562 c 73.97,0 133.96,-58.43 133.96,-130.53 0,-72.102 -59.986,-130.56 -133.97,-130.56 -73.983,0 -133.94,58.461 -133.94,130.56 h 36.875 l -58.469,87.406 -59.594,-87.406 h 38.031 c 0,-97.808 79.286,-177.09 177.09,-177.09 z m 62.58,121.15 c 2.8745,-0.0214 5.5144,0.93958 7.4062,2.9375 l 1.5625,1.6562 c 4.3242,4.5667 3.0305,12.785 -2.9062,18.406 l -62.125,58.781 c -5.9367,5.6215 -14.176,6.4729 -18.5,1.9062 l -0.15625,-0.15625 c -1.0645,-0.52738 -2.1232,-1.173 -3.125,-1.9375 l -42.406,-32.375 c -6.4997,-4.9599 -8.659,-12.969 -4.8438,-17.969 l 1.375,-1.8125 c 3.8153,-4.9997 12.125,-5.0224 18.625,-0.0625 l 37.688,28.781 56.281,-53.312 c 3.3394,-3.1621 7.4292,-4.8162 11.125,-4.8438 z" />
+      </svg:g>
+      <svg:g
+         id="g315"
+         transform="matrix(0.4425815,0,0,-0.4425815,157.22156,679.72026)">
+        <svg:g
+           id="g14">
+          <svg:g
+             id="g16"
+             clip-path="url(#clipPath20)">
+            <svg:g
+               id="g22"
+               clip-path="url(#clipPath26)">
+              <svg:path
+                 d="M -1,513 H 513 V -1 H -1 Z"
+                 style="fill:#f6b102;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 id="path28" />
+            </svg:g>
+          </svg:g>
+        </svg:g>
+        <svg:g
+           id="g30">
+          <svg:g
+             id="g32"
+             clip-path="url(#clipPath36)">
+            <svg:g
+               id="g38"
+               clip-path="url(#clipPath42)">
+              <svg:path
+                 d="M 252.6875,363 H 425.7089 V 161.0939 H 252.6875 Z"
+                 style="fill:#fdebbf;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 id="path44" />
+            </svg:g>
+          </svg:g>
+        </svg:g>
+        <svg:g
+           id="g46">
+          <svg:g
+             id="g48"
+             clip-path="url(#clipPath52)">
+            <svg:g
+               id="g54"
+               clip-path="url(#clipPath58)">
+              <svg:path
+                 d="M 82.51535,363 H 311.6214 V 161.0939 H 82.51535 Z"
+                 style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 id="path60" />
+            </svg:g>
+          </svg:g>
+        </svg:g>
+      </svg:g>
+    </svg:g>
+    <svg:g
+       id="g12-0"
+       transform="matrix(1.3333333,0,0,-1.3333333,-41.507245,690.14038)" />
+  </svg:g>
+  <svg:metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>1295099237</dc:title>
+        <dc:date>2011-01-15T13:47:17</dc:date>
+        <dc:description>the icon for JBackpack, a free backup program</dc:description>
+        <dc:source>https://openclipart.org/detail/104995/-by-rost</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>rost</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>backup</rdf:li>
+            <rdf:li>jbackpack</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </svg:metadata>
+  <script />
+</svg:svg>
