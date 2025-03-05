@@ -2,14 +2,11 @@ debian/flexibee-server
 tmp
 nbproject
 debian/debhelper-build-stamp
-debian/flexibee-server.debhelper.log
-debian/flexibee-server.postrm.debhelper
-debian/flexibee-server.substvars
+debian/abraflexi-server-backup.substvars
 debian/lastversion
 debian/md5sums
 flexibee_*
 debian/files
 /.vagrant/
 *_all.deb
-/debian/flexibee-server-backup/
-/debian/flexibee-server-backup.substvars
+/debian/abraflexi-server-backup/

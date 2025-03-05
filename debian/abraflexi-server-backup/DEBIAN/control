@@ -1,0 +1,11 @@
+Package: abraflexi-server-backup
+Version: 1.0.0
+Architecture: all
+Maintainer: Vítězslav Dvořák <info@vitexsoftware.cz>
+Installed-Size: 7
+Depends: flexibee-server | abraflexi-server | flexibee, debconf
+Section: contrib/office
+Priority: optional
+Homepage: https://github.com/Vitexus/abraflexi-server-backup
+Description: Každodení záloha dat
+ Každý den uloží zálohu firmy do /var/lib/backup/flexibee nebo jinam dle volby
