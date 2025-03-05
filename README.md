@@ -1,7 +1,10 @@
 # abraflexi-server-backup
 
-![FlexiBee Server logo](abraflex-server-backup.png?raw=true)
+![AbraFlexi Server Backup](abraflex-server-backup.svg?raw=true)
 
+Nastaví Cron aby každý den provedl kompletní zálohu AbraFlexi.
+
+Pro funkci je nutné mít nainstalovaný příkaz /usr/share/flexibee/bin/flexibee-backup  který je součástí [oficiálního balíčku](https://www.flexibee.eu/download/latest/deb/). 
 
 Instalace
 ---------
