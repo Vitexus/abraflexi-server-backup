@@ -1,6 +1,6 @@
 # abraflexi-server-backup
 
-![AbraFlexi Server Backup](abraflex-server-backup.svg?raw=true)
+![AbraFlexi Server Backup](abraflexi-server-backup.svg?raw=true)
 
 Nastaví Cron aby každý den provedl kompletní zálohu AbraFlexi.
 
