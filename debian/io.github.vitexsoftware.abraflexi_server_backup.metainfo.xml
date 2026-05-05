@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="service">
+  <id>io.github.vitexsoftware.abraflexi_server_backup</id>
+  <icon type="stock">abraflexi-server-backup</icon>
+  <metadata_license>MIT</metadata_license>
+  <project_license>MIT</project_license>
+  <name>AbraFlexi Server Backup</name>
+  <summary>Automated daily backup for AbraFlexi server data</summary>
+  <description>
+    <p>
+      Performs automated daily backups of AbraFlexi company data to /var/lib/backup/flexibee or a configured alternative location.
+    </p>
+  </description>
+  <categories>
+    <category>System</category>
+  </categories>
+  <url type="homepage">https://github.com/Vitexus/abraflexi-server-backup</url>
+  <url type="bugtracker">https://github.com/Vitexus/abraflexi-server-backup/issues</url>
+  <developer id="cz.vitexsoftware">
+    <name>VitexSoftware</name>
+  </developer>
+  <content_rating type="oars-1.1"/>
+</component>
