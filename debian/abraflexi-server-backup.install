@@ -1,3 +1,4 @@
 backup/flexibee-server-backup etc/default
 abraflexi-server-backup.svg	usr/share/icons/hicolor/scalable/apps/
-io.github.vitexsoftware.abraflexi_server_backup.metainfo.xml	usr/share/metainfo/
+debian/io.github.vitexsoftware.abraflexi_server_backup.metainfo.xml	usr/share/metainfo/
+
