@@ -1,6 +1,8 @@
 abraflexi-server-backup (1.0.1) UNRELEASED; urgency=medium
 
   * config fix
+  * cron.daily: suppress benign "mv: failed to preserve ownership" warning
+    when BACKUPDIR is on a root-squashed NFS mount
 
  -- vitex <info@vitexsoftware.cz>  Wed, 05 Mar 2025 12:30:35 +0100
 
